@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\m1am1\\Documents\\Dojo\\Instruction\\C#\\Intro\\FunctionsIntro\\FunctionsIntro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\m1am1\\Documents\\Dojo\\Instruction\\C#\\Intro\\FunctionsIntro\\FunctionsIntro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\m1am1\\Documents\\Dojo\\Instruction\\C#\\Intro\\FunctionsIntro\\FunctionsIntro.csproj",
+        "projectName": "FunctionsIntro",
+        "projectPath": "C:\\Users\\m1am1\\Documents\\Dojo\\Instruction\\C#\\Intro\\FunctionsIntro\\FunctionsIntro.csproj",
+        "packagesPath": "C:\\Users\\m1am1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\m1am1\\Documents\\Dojo\\Instruction\\C#\\Intro\\FunctionsIntro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m1am1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

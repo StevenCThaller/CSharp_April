@@ -1,0 +1,11 @@
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\bin\Debug\netcoreapp2.2\FunctionsIntro.deps.json
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\bin\Debug\netcoreapp2.2\FunctionsIntro.runtimeconfig.json
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\bin\Debug\netcoreapp2.2\FunctionsIntro.runtimeconfig.dev.json
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\bin\Debug\netcoreapp2.2\FunctionsIntro.dll
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\bin\Debug\netcoreapp2.2\FunctionsIntro.pdb
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.csprojAssemblyReference.cache
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.csproj.CoreCompileInputs.cache
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.AssemblyInfoInputs.cache
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.AssemblyInfo.cs
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.dll
+C:\Users\m1am1\Documents\Dojo\Instruction\C#\Intro\FunctionsIntro\obj\Debug\netcoreapp2.2\FunctionsIntro.pdb
